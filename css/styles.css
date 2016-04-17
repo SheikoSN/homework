@@ -13,14 +13,18 @@ background-color: gray;
 body>h1 {
 	margin-bottom:30px;
 }
+
 #text {
 	background-color: gray;
 	padding: 2px 15px 5px  15px;
 	margin-top:25px;
+	margin-bottom:20px;
 }
+
 a {
 	color:navy;
 }
+
 ul li{
 	text-align:center;
 	}
